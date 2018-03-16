@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.jmc.ibisking" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Bolaku</name>
+    <name>Keko Kreasi</name>
     <description>
-        Bola mania seputar bola
+        Kreasi kertas kotak
     </description>
-    <author email="support@jmc.co.id" href="http://jmc.co.id">
-        JMC Mobile Apps Team
+    <author email=".co.id" href="http://google.co.id">
+        RADZ Mobile Apps Team
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
